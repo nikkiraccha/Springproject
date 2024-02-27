@@ -1,0 +1,14 @@
+eureka: 
+  client: 
+    registerWithEureka: true 
+    fetchRegistry: true 
+    service-url: 
+      defaultZone: http://localhost:8761/eureka/ 
+  instance: 
+    hostname: localhost 
+server:     
+  port: 8067
+   
+spring:   
+  application: 
+    name : CITIZEN RESTAPI EUREKACLOUD
