@@ -1,1 +1,0 @@
-<h1>Account is created</h1>
